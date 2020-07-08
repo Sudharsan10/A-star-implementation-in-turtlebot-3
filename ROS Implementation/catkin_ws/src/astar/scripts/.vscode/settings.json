@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/home/codemaster/anaconda3/envs/codebase/bin/python"
+}
